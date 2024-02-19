@@ -166,8 +166,8 @@
 	<a href="https://github.com/andikaalakate/absensi-laravel">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=andikaalakate&repo=absensi-laravel&theme=tokyonight" alt="GitHub Stats" />
     </a>
-	<a href="https://github.com/andikaalakate/project-tokoonline">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=andikaalakate&repo=project-tokoonline&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/andikaalakate/project_tokoonline">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=andikaalakate&repo=project_tokoonline&theme=tokyonight" alt="GitHub Stats" />
     </a>
 	<a href="https://github.com/andikaalakate/alakate-network">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=andikaalakate&repo=alakate-network&theme=tokyonight" alt="GitHub Stats" />

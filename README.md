@@ -3,7 +3,6 @@
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a> -->
 <!-- </p> -->
 
-
 <br>
 
 <p align="center"> 
@@ -14,12 +13,11 @@
 		</a> -->
 
 <!-- 	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
+		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/>
 	</a> -->
 
 </p>
 
-	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -31,10 +29,10 @@
 - :student: I’m currently learning `React` and `Laravel`.
 - :nerd_face: Always `learning new things`.
 - :boom: You can visit [MY WEBSITE](https://portfolio-andikaalakte.vercel.app).
-<br>
-
+  <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+
 <p align="center">
 	<a href="mailto:andikaalakate@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/andikaalakate"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -44,11 +42,9 @@
 	<a href="https://www.instagram.com/andika46710_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-
-
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://media1.tenor.com/m/8b2-2a17wIAAAAAC/wow-world-of-warcraft.gif" width = 50px>  </picture> Programming languages
+### <picture> <img src = "https://media1.tenor.com/m/8b2-2a17wIAAAAAC/wow-world-of-warcraft.gif" width = 50px> </picture> Programming languages
 
 <p align="center"> 
   &emsp;
@@ -65,7 +61,8 @@
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px> </picture> Frontend Development
+
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -85,8 +82,8 @@
    </a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
- 
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px> </picture> Software & Tools
+
 <p align="center">
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
@@ -102,15 +99,15 @@
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
- 
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px> </picture> IDEs
+
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
- 
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px> </picture> Operating Systems
+
 <p align="center">
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
@@ -120,15 +117,15 @@
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
 
-<br> 
+<br>
 
 ---
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
-----	
+---
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andikaalakate&theme=tokyonight_duo" alt="andikaalakate" /></p>
 
@@ -136,38 +133,57 @@
   
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
-----
-	
+---
+
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="andikaalakate's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andikaalakate&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andikaalakate&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="andikaalakate" height="230px"/>
 <br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
   </p>
 </details>
 
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
-----
-	
+---
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andikaalakate&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="andikaalakate" /></a> </p>
 	
 </details>
 	
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
-----
-	
+---
+
 <div>
   <p align="center">
 	<a href="https://github.com/andikaalakate/3A">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=andikaalakate&repo=3A&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/andikaalakate/test-laravel-1">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=andikaalakate&repo=test-laravel-1&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=andikaalakate&repo=3A&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+	<a href="https://github.com/andikaalakate/absensi-laravel">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=andikaalakate&repo=absensi-laravel&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+	<a href="https://github.com/andikaalakate/project-tokoonline">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=andikaalakate&repo=project-tokoonline&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+	<a href="https://github.com/andikaalakate/alakate-network">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=andikaalakate&repo=alakate-network&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+	<a href="https://github.com/andikaalakate/portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=andikaalakate&repo=portfolio&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+	<a href="https://github.com/andikaalakate/vantanime">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=andikaalakate&repo=vantanime&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+	<a href="https://github.com/andikaalakate/kastling">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=andikaalakate&repo=kastling&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+	<a href="https://github.com/andikaalakate/kopi-kenangan">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=andikaalakate&repo=kopi-kenangan&theme=tokyonight" alt="GitHub Stats" />
+    </a>
   </p>
 </div>
 </details>

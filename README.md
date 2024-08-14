@@ -28,7 +28,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `React` and `Laravel`.
 - :nerd_face: Always `learning new things`.
-- :boom: You can visit [MY WEBSITE](https://portfolio-andikaalakte.vercel.app).
+- :boom: You can visit [MY WEBSITE](https://andikaalakte.vercel.app).
   <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me

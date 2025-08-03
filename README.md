@@ -22,7 +22,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br>
+<br><br>
 
 - :school: I am a `Backend Developer` at [TaruLab](https://taru-web.vercel.app).
 - :technologist: I love using Software as a solution for every `Problem`.
